@@ -23,7 +23,7 @@
 
 <section>
   <h2>Contact</h2>
-  <a href="https://linkedin.com/in/aenamartinelli" target="_blank">
+  <a href="https://www.linkedin.com/in/aen%C3%A3-eloi-martinelli" target="_blank">
     <img src="https://img.shields.io/badge/aenamartinelli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
   <a href="https://aenamartinelli.com" target="_blank" >
