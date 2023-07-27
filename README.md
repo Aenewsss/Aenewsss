@@ -14,7 +14,7 @@
    <br />
    <li>💬 Ask me about <strong> Typescript, Node, Angular, React, React Native, Nest, HTML, CSS, Bootstrap, Mongo, MYSQL, PostgreSQL, AWS, Docker, Linux, Go & a little     of JAVA, Python and C </strong></li>
    <br />
-   <li>👨‍💻 More at <a target="_blank" href="https://aenamartinelli.com">aenamartinelli.vercel.app</a></li>
+   <li>👨‍💻 More at <a target="_blank" href="https://aenamartinelli.vercel.app">aenamartinelli.vercel.app</a></li>
   </ul>
 </section>
 
