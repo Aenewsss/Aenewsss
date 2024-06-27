@@ -26,10 +26,10 @@
   <a href="https://www.linkedin.com/in/aen%C3%A3-eloi-martinelli" target="_blank">
     <img src="https://img.shields.io/badge/aenamartinelli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
-  <a href="https://aenamartinelli.vercel.app" target="_blank" >
+  <a href="https://aenamartinelli.com.br" target="_blank" >
     <img src="https://img.shields.io/badge/aenamartinelli-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="linkedin">
   </a>
-  <a href="https://www.instagram.com/aenewsss/" target="_blank">
+<!--   <a href="https://www.instagram.com/aenewsss/" target="_blank">
     <img src="https://img.shields.io/badge/aenewsss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="linkedin">
-  </a>
+  </a> -->
 </section>
