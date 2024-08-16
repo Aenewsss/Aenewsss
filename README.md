@@ -6,13 +6,13 @@
 
 <section>
   <ul>
-   <li>🔥Brazilian full stack developer</li>
+   <li>🔥Brazilian Software Engineer</li>
    <br />
    <li>💻 I’m currently working at <a target="_blank" href="https://walkr.app/">Walkr</a></li>
    <br />
    <li>🤝 I like to code with my friends</li>
    <br />
-   <li>💬 Ask me about <strong> Typescript, Node, Angular, React, React Native, Nest, HTML, CSS, Bootstrap, Mongo, MYSQL, PostgreSQL, AWS, Docker, Linux, Go & a little     of JAVA, Python and C </strong></li>
+   <li>💬 Ask me about <strong> Typescript, Node, React, React Native, Nest, Angular, Tailwind, Mongo, PostgreSQL, AWS, Docker & a little of Python and Go </strong></li>
    <br />
    <li>👨‍💻 More at <a target="_blank" href="https://aenamartinelli.com.br">aenamartinelli.com.br</a></li>
   </ul>
