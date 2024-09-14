@@ -8,7 +8,7 @@
   <ul>
    <li>🔥Brazilian Software Engineer</li>
    <br />
-   <li>💻 I’m currently working at <a target="_blank" href="https://walkr.app/">Walkr</a></li>
+   <li>💻 I’m currently working at <a target="_blank" href="https://branddi.com">Branddi</a></li>
    <br />
    <li>🤝 I like to code with my friends</li>
    <br />
